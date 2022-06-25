@@ -1,5 +1,5 @@
 ### 
-✨ don't care✨
+Hello everyone!
 <!--
 **arizebolt/arizebolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
